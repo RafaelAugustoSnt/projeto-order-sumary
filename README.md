@@ -1,0 +1,2 @@
+## Welcome! 👋
+my english is very bad, however, I tried to read all the tips and recommendations that the other developers gave in the project before this one but some tips I only read after finishing this project later I intend to come back and improve this one as I will improve the one before this one.  
