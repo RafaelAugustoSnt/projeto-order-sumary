@@ -1,0 +1,11 @@
+@media (max-width: 375px){
+    .container{
+        width: 90%;
+    }
+    .hero{
+        width: 100%;
+    }
+    .btn{
+        padding: 1.5rem 2rem ;
+    }
+}
